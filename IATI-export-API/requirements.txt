@@ -1,0 +1,17 @@
+boto3==1.9.134
+botocore==1.12.134
+configparser==3.7.4
+defusedxml==0.6.0
+Django==1.11.6
+djangorestframework==3.9.2
+djangorestframework-xml==1.4.0
+docutils==0.14
+futures==3.2.0
+jmespath==0.9.4
+pkg-resources==0.0.0
+psycopg2==2.8.2
+python-dateutil==2.8.0
+pytz==2019.1
+s3transfer==0.2.0
+six==1.12.0
+urllib3==1.24.2
