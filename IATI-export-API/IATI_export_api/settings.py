@@ -25,7 +25,7 @@ SECRET_KEY = '^i6v*(63^2s_lg&w-q%^d-)ddwa_((7umveb*wgvd4rw+=2$v2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['iati-export-api01.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['beis-odart-iati-api.herokuapp.com/','127.0.0.1']
 
 
 # Application definition
